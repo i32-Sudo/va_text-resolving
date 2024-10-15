@@ -1,5 +1,5 @@
 # VA Text Resolving
-Pasted but slightly modified to work better
+Pasted but slightly modified to work better, coppied from my FN source.
 ```cpp
 	std::vector<uint64_t> vas;
 	for (int Index = 0; Index < 25; Index++) {
